@@ -41,7 +41,7 @@ function About() {
           <li>
             <a href="https://www.linkedin.com/in/guptamadhav1729" target="blank">
               <img
-                src="https://www.yashkvr.com/_next/image?url=https%3A%2F%2Fimgur.com%2FJRgbGsP.png&w=128&q=75"
+                src="https://www.yashkvr.com/_next/image?url=https%3A%2F%2Fimgur.com%2FqVhGNtD.png&w=128&q=75"
                 alt="LinkedIn"
                 style={{ width: "40px", height: "40px" }}
               />
@@ -50,7 +50,7 @@ function About() {
           <li>
             <a href="https://github.com/shivaay2210" target="blank">
               <img
-                src="https://www.yashkvr.com/_next/image?url=https%3A%2F%2Fimgur.com%2FqVhGNtD.png&w=128&q=75"
+                src="https://www.yashkvr.com/_next/image?url=https%3A%2F%2Fimgur.com%2FJRgbGsP.png&w=128&q=75"
                 alt="GitHub"
                 style={{ width: "40px", height: "40px" }}
               />
