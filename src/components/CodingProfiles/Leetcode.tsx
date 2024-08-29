@@ -22,7 +22,7 @@ function Leetcode() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('https://leetcode-api-faisalshohag.vercel.app/_shivaay_');
+        const response = await fetch('https://leetcode-api-faisalshohag.vercel.app/shivaay2210');
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
