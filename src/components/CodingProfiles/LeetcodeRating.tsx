@@ -19,7 +19,7 @@ function LeetcodeRating() {
   useEffect(() => {
     const fetchData = async () => {
       try {
-        const response = await fetch('https://leetcode-api-1.onrender.com/_shivaay_/contest');
+        const response = await fetch('https://leetcode-api-1.onrender.com/shivaay2210/contest');
         if (!response.ok) {
           throw new Error('Network response was not ok');
         }
