@@ -23,7 +23,7 @@ const CodingProfilesIndex: React.FC = () => {
       >
         <div className="flex justify-start items-center mb-4 lg:text-2xl text-xl text-light-slate">
           LeetCode
-          <a href="https://leetcode.com/_shivaay_/" target="_blank" rel="noreferrer">
+          <a href="https://leetcode.com/shivaay2210/" target="_blank" rel="noreferrer">
             <GoLinkExternal className="lg:text-2xl text-xl hover:text-highlight transition-all text-light-slate ml-2" />
           </a>
         </div>
